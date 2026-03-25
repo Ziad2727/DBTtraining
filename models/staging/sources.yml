@@ -5,3 +5,4 @@ sources:
     schema: toys_and_co
     tables:
       - name: raw_customers
+      - name: raw_orders
