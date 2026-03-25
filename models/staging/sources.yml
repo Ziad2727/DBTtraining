@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: toys_and_co
+    schema: toys_and_co
+    tables:
+      - name: raw_customers
