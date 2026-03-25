@@ -8,8 +8,7 @@ renamed as (
         ordered_at  as order_date,
         store_id    as store_id,
         subtotal    as subtotal,
-        tax_paid    as tax_paid,
-        amount      as amount
+        tax_paid    as tax_paid
     from source
 )
 select * from renamed
